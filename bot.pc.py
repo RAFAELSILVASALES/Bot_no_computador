@@ -1,6 +1,6 @@
 import pyautogui
 
-pyautogui.PAUSE = 2
+pyautogui.PAUSE = 3
 
 pyautogui.hotkey('win', 'e')
 pyautogui.click(x=333, y=155)
@@ -18,9 +18,3 @@ pyautogui.press('win')
 pyautogui.write('Login.xlsx')
 pyautogui.press('backspace')
 pyautogui.press('enter')
-
-
-
-
-
-
