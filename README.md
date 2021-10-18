@@ -1,4 +1,4 @@
-<h1 align="center"> Bot no computador.</h1>
+<h1 align="center"> Bot no computador.  <img  src="https://img.shields.io/github/license/RAFAELSILVASALES/Bot_no_computador"></h1>
 
 <p align="center"> ✔ Bot que alterar o modo de abertura de um arquivo, por exemplo, de excel para LibreOffice Calc. </p>
 
