@@ -1,6 +1,6 @@
 <h1 align="center"> Bot no computador.  <img  src="https://img.shields.io/github/license/RAFAELSILVASALES/Bot_no_computador"></h1>
 
-<p align="center"> ✔ Bot que alterar o modo de abertura de um arquivo, por exemplo, de excel para LibreOffice Calc. </p>
+<p align="center"> ✔ Bot que altera o modo de abertura de um arquivo, por exemplo, de excel para LibreOffice Calc. </p>
 
 <p> instalar o pyautogui Comando  pip install PyAutoGUI 
  <br>link da documentation: https://pyautogui.readthedocs.io/en/latest/keyboard.html</br><p>
